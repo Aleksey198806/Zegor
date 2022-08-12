@@ -135,7 +135,7 @@ img {
 .contacts-list,
 .header-list {
   display: flex;
-  gap: 50px;
+  gap: 30px;
 }
 .contacts-list {
   margin-left: auto;
